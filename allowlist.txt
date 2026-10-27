@@ -1,4 +1,4 @@
 zombie.duolingo.com
 ||dualingo.com^
 ||ably.io^
-||mobile.pipe.aria.microsoft.com
+||microsoft.com
